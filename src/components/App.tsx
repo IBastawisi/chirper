@@ -18,7 +18,7 @@ const App: React.FC = () => {
   }, [dispatch])
 
   return (
-    <Router>
+    <Router basename="/chirper">
       <>
         <LoadingBar />
         <div className='container'>
