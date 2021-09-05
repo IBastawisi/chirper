@@ -129,6 +129,7 @@ li {
 .tweet-icon {
   font-size: 27px;
   color: #697784;
+  stroke-width: 0;
 }
 .tweet-icon:hover {
   color: #00b5d6;
@@ -146,6 +147,7 @@ li {
 .heart-button {
   background: transparent;
   border: none;
+  height: 27px;
 }
 
 .new-tweet {
